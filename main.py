@@ -224,7 +224,6 @@ if new_choice == "Isabetta's, Lichtenstein's and Louis' Blood":
     new_choice = input("Which title would you like to see? (copy/paste from list)  ")
 
 
-
 if new_choice == "LIST":
     print(my_list) 
     new_choice = input("Which title would you like to see? (copy/paste from list)  ")
