@@ -31,7 +31,6 @@ for div in divs:
 print()
 print()
 
-#MASTER_EXIT = "EXIT"
 
 
 my_list = ["Blood E Surplus : How's Your Vision? No. 1",
