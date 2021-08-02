@@ -23,7 +23,6 @@ for div in divs:
 
 #my_list=[]
 #my_list = [(div.text)]
-#a = prop_dict  
 #type(a[0])
 #df = pd.DataFrame(a)
 #df.to_csv(r'CSV_files/property_info.csv')
