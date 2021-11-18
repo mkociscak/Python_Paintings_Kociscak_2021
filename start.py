@@ -3,7 +3,7 @@ import requests
 import urllib
 import sys
 import csv 
-#above for BS
+#above for BSoup
 import easyocr
 import cv2
 from matplotlib import pyplot
