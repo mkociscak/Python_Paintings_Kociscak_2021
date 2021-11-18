@@ -3,7 +3,7 @@ import requests
 import urllib
 import sys
 import csv 
-#above for BS #below for PDF
+#above for BSoup #below for PDF
 import fitz
 
 
