@@ -4,9 +4,7 @@ import urllib
 import sys
 import csv 
 #above for BSoup
-import easyocr
 import cv2
-from matplotlib import pyplot
 import numpy 
 #below for PDF
 from PyPDF2 import PdfFileReader
