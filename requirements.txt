@@ -8,6 +8,5 @@ PyPDF2
 html5lib
 urlopen
 fitz
-re
 
 
