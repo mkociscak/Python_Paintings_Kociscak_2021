@@ -3,10 +3,8 @@ import requests
 import urllib
 import sys
 import csv 
-#above for BSoup
 import cv2
 import numpy 
-#below for PDF
 from PyPDF2 import PdfFileReader
 
 
