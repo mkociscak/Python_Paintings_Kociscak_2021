@@ -1,16 +1,16 @@
 # Code Louisville Project #2 (Python)
 
-# mkociscak/Python_Paintings_Kociscak_2021
+## mkociscak/Python_Paintings_Kociscak_2021
  -------------------
  
-##**To run this code:**
+## **To run this code:**
     1. Install Python from https://www.python.org/downloads/ for your specific environment.
 
     2. Enter 'pip install -r, requirements.txt' at the command prompt.
 
     3. Enter 'start.py' at the command prompt to run the program.
 
-##Project currently meets the following **Code Louisville Python Project requirements:**
+## Project currently meets the following **Code Louisville Python Project requirements:**
 
     1. Project is uploaded to your GitHub repository and shows at minimum 5 separate commits.
 
@@ -20,9 +20,9 @@
 
     4. Implement a “master loop” console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program. 
  
+ ----------------
  
- 
-##**Project Overview:** 
+## **Project Overview:** 
 
 This program runs in the console by the command line and provides access to a list of painting titles scraped from my website. Each title, when entered in the command line after the prompt, returns an html link. When the user clicks on the link a new window will open to the web page containing an image of the corresponding painting. 
 
