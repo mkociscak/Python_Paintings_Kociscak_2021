@@ -6,11 +6,13 @@
 ## **To run this code:**
     1. Install Python from https://www.python.org/downloads/ for your specific environment.
 
-    2. Enter "pip install -r, requirements.txt" at the command prompt.
+    2. Enter "pip install --upgrade pip" at the command line prompt.
 
-    3. Enter "start.py" (or "python3 start.py") at the command prompt to run the program.
+    3. Enter "pip install -r, requirements.txt" at the command line prompt.
 
-    *The Return/Enter key must be used after typing in command line to execute
+    4. Enter "start.py" (or "python3 start.py") at the command line prompt to run the program.
+
+    *The Return/Enter key must be used after typing in command line to execute.
 
 ## Project currently meets the following **Code Louisville Python Project requirements:**
 
